@@ -18,7 +18,6 @@ class SSSInstagram:
     BASE_URL: str = "https://sssinstagram.com"
     SECRET_KEY: str = "1480053078d494e109c932301998d19f9a00253c5082a734d71f6e336442d209"
     _TS: int = 1746520083801
-    LINK_CHUNK_JS_ENDPOINT: str = "js/link.chunk.js"
     API_CONVERT_ENDPOINT: str = "api/convert"
 
     @classmethod
